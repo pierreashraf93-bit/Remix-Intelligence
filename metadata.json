@@ -1,0 +1,8 @@
+{
+  "name": "Remix Secret Operations Portal - بوابة العمليات السرية",
+  "description": "بوابة عمليات وتجسس سرية متكاملة تتضمن محاكاة اختراق، موجه أوامر Terminal، ملفات سرية استخباراتية، بث مباشر للمراقبة، ورادار تكتيكي.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
